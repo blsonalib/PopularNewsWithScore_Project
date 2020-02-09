@@ -59,15 +59,14 @@ public class MaximumWordWithHighestScore {
     }
 
     public static void main(String[] args) {
-
         List<String> newsHeadingsList = new ArrayList();
         List<Integer> scorePoints = new ArrayList<>();
 
         System.setProperty("webdriver.chrome.driver", "/home/admin1/IdeaProjects/HighestScoreAndNews/Driver/chromedriver");
         WebDriver driver = new ChromeDriver();
         driver.get("https://news.ycombinator.com/news");
-        List<WebElement> newsElements = driver.findElements(By.cssSelector("a.storylink"));
 
+        List<WebElement> newsElements = driver.findElements(By.cssSelector("a.storylink"));
         List<WebElement> scoreElements = driver.findElements(By.cssSelector("tr td span.score"));
         Map<String, Integer> map = new HashMap<>();
 
