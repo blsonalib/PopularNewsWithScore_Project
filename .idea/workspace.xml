@@ -19,6 +19,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1XTHXb8pjR6GAWQ0vTH3C8ugI3B" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -77,22 +80,22 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="469" y="256" width="494" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/67.27.1299.741@67.27.1299.741" timestamp="1581241611627" />
-    <state width="1253" height="178" key="GridCell.Tab.0.bottom" timestamp="1581239991051">
+    <state width="1253" height="38" key="GridCell.Tab.0.bottom" timestamp="1581245477342">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="178" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1581239991051" />
-    <state width="1253" height="178" key="GridCell.Tab.0.center" timestamp="1581239991051">
+    <state width="1253" height="38" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1581245477342" />
+    <state width="1253" height="38" key="GridCell.Tab.0.center" timestamp="1581245477342">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="178" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1581239991051" />
-    <state width="1253" height="178" key="GridCell.Tab.0.left" timestamp="1581239991051">
+    <state width="1253" height="38" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1581245477342" />
+    <state width="1253" height="38" key="GridCell.Tab.0.left" timestamp="1581245477341">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="178" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1581239991051" />
-    <state width="1253" height="178" key="GridCell.Tab.0.right" timestamp="1581239991051">
+    <state width="1253" height="38" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1581245477341" />
+    <state width="1253" height="38" key="GridCell.Tab.0.right" timestamp="1581245477342">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="178" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1581239991051" />
+    <state width="1253" height="38" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1581245477342" />
     <state x="372" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1581087308109">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
